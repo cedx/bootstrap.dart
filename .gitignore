@@ -1,0 +1,15 @@
+/.*/
+!/.vscode/
+
+/build/
+/doc/api/
+/var/
+/web/
+
+/*.code-workspace
+/*.iml
+/**/.DS_Store
+/.packages
+/pubspec.lock
+/doc/about/changelog.md
+/doc/about/license.md
