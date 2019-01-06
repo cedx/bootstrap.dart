@@ -1,0 +1,3 @@
+The Bootstrap Authors
+Twitter, Inc.
+Cédric Belin <cedric@belin.io>
