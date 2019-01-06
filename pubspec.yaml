@@ -11,6 +11,5 @@ environment:
 
 dev_dependencies:
   grinder: ^0.8.3
-  package_resolver: ^1.0.6
   path: ^1.6.2
   sass: ^1.15.3

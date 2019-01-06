@@ -1,7 +1,19 @@
 import 'package:grinder/grinder.dart';
+import 'package:path/path.dart' as p;
+import 'package:sass/sass.dart' as sass;
 
 /// Starts the build system.
 Future<void> main(List<String> args) => grind(args);
+
+@DefaultTask('Builds the project')
+Future<void> build() async {
+  for (final file in ['bootstrap.scss', 'bootstrap-grid.scss', 'bootstrap-reboot.scss']) {
+    final input = p.join(libDir.path, 'scss', file);
+    final output = p.join(libDir.path, 'css', p.basenameWithoutExtension(file));
+    await getFile('$output.css').writeAsString(sass.compile(input, style: sass.OutputStyle.expanded));
+    await getFile('$output.min.css').writeAsString(sass.compile(input, style: sass.OutputStyle.compressed));
+  }
+}
 
 @Task('Deletes all generated files and reset any saved state')
 void clean() {
@@ -31,6 +43,3 @@ void upgrade() {
   run('git', arguments: ['pull', '--rebase']);
   Pub.upgrade();
 }
-
-@Task('Watches for file changes')
-void watch() => Pub.run('build_runner', arguments: ['watch', '--delete-conflicting-outputs']);
