@@ -1,10 +1,14 @@
 name: bootstrap_dart
 version: 4.2.1
 
-author: Cédric Belin <cedric@belin.io>
 description: The most popular front-end framework for developing responsive, mobile first projects on the Web.
 documentation: https://dev.belin.io/bootstrap.dart/api
 homepage: https://dev.belin.io/bootstrap.dart
+
+authors:
+  - The Bootstrap Authors
+  - Twitter, Inc.
+  - Cédric Belin <cedric@belin.io>
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
