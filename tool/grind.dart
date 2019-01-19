@@ -6,14 +6,7 @@ import 'package:sass/sass.dart' as sass;
 Future<void> main(List<String> args) => grind(args);
 
 @DefaultTask('Builds the project')
-Future<void> build() async {
-  for (final file in ['bootstrap.scss', 'bootstrap-grid.scss', 'bootstrap-reboot.scss']) {
-    final input = p.join(libDir.path, 'scss', file);
-    final output = p.join(libDir.path, 'css', p.basenameWithoutExtension(file));
-    await getFile('$output.css').writeAsString(sass.compile(input, style: sass.OutputStyle.expanded));
-    await getFile('$output.min.css').writeAsString(sass.compile(input, style: sass.OutputStyle.compressed));
-  }
-}
+Future<void> build() => joinFile(libDir, ['scss', 'bootstrap.scss']).copy(joinFile(libDir, ['scss', '_index.scss']).path);
 
 @Task('Deletes all generated files and reset any saved state')
 void clean() {
