@@ -1,4 +1,4 @@
-site_name: Bootstrap for Dart
+site_name: Bootstrap Bundle for Dart
 site_description: The most popular front-end framework for developing responsive, mobile first projects on the Web.
 site_author: Cédric Belin - cedric@belin.io
 site_url: https://dev.belin.io/bootstrap.dart
@@ -10,7 +10,7 @@ repo_name: Gitea/Belin.io
 repo_url: https://git.belin.io/cedx/bootstrap.dart
 edit_uri: ''
 
-copyright: Copyright &copy; 2019 Cédric Belin
+copyright: Copyright &copy; 2011-2019 The Bootstrap Authors, Twitter Inc. and Cédric Belin.
 google_analytics:
   - !!python/object/apply:os.getenv [GOOGLE_ANALYTICS_ID]
   - auto

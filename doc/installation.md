@@ -1,11 +1,11 @@
 # Installation
 
 ## Requirements
-Before installing **Bootstrap for Dart**, you need to make sure you have the [Dart SDK](https://www.dartlang.org/tools/sdk)
+Before installing **Bootstrap Bundle for Dart**, you need to make sure you have the [Dart SDK](https://www.dartlang.org/tools/sdk)
 and [Pub](https://www.dartlang.org/tools/pub), the Dart package manager, up and running.
 
 !!! warning
-    Bootstrap for Dart requires Dart >= **2.1.0**.
+    Bootstrap Bundle for Dart requires Dart >= **2.1.0**.
 
 You can verify if you're already good to go with the following commands:
 
@@ -27,8 +27,13 @@ pub --version
 Add this to your project's `pubspec.yaml` file:
 
 ```yaml
+# Required
 dependencies:
-  bootstrap_dart: *
+  bootstrap_bundle: *
+  
+# Optional
+dev_dependencies:
+  sass_builder: *
 ```
 
 ### 2. Install it
@@ -39,8 +44,16 @@ pub get
 ```
 
 ### 3. Import it
-Now in your [Sass](https://sass-lang.com) code, you can use:
+Now in your [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) code, you can use:
+
+```html
+<link rel="stylesheet" href="packages/bootstrap_bundle/css/bootstrap.min.css">
+<script src="packages/bootstrap_bundle/js/jquery.slim.min.js"></script>
+<script src="packages/bootstrap_bundle/js/bootstrap.bundle.min.js"></script>
+```
+
+Or in your [Sass](https://sass-lang.com) code, you can use:
 
 ```scss
-@import 'package:bootstrap_dart/scss/bootstrap';
+@import 'package:bootstrap_bundle/scss';
 ```
