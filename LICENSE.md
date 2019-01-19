@@ -1,7 +1,4 @@
 # MIT License
-Copyright &copy; 2011-2019 Twitter, Inc.  
-Copyright &copy; 2011-2019 The Bootstrap Authors  
-Copyright &copy; JS Foundation and other contributors  
 Copyright &copy; 2019 Cédric Belin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
