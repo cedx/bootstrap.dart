@@ -1,9 +1,10 @@
-name: bootstrap_dart
-version: 4.2.1
+name: bootstrap_bundle
+version: 1.0.0
 
-description: The most popular front-end framework for developing responsive, mobile first projects on the Web.
-documentation: https://dev.belin.io/bootstrap.dart/api
+description: Bundle providing Bootstrap and jQuery in one package. A front-end framework for developing responsive, mobile first projects on the Web.
 homepage: https://dev.belin.io/bootstrap.dart
+issue_tracker: https://github.com/cedx/bootstrap.dart/issues
+repository: https://github.com/cedx/bootstrap.dart
 
 authors:
   - The Bootstrap Authors
@@ -16,4 +17,4 @@ environment:
 dev_dependencies:
   grinder: ^0.8.3
   path: ^1.6.2
-  sass: ^1.15.3
+  sass: ^1.16.1

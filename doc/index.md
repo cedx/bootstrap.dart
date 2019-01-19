@@ -1,5 +1,7 @@
 # Bootstrap Bundle <small>for Dart</small>
-The most popular front-end framework for developing responsive, mobile first projects on the Web.
+Bundle providing [Bootstrap](https://getbootstrap.com) and [jQuery](https://jquery.com) in one package.
+
+A front-end framework for developing responsive, mobile first projects on the Web.
 
 ## Quick start
 Append the following line to your project's `pubspec.yaml` file:
