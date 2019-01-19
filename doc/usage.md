@@ -9,7 +9,7 @@ import 'package:bootstrap_bundle/bootstrap_bundle.dart';
 /// Prints the version numbers of the available libraries.
 void main() {
   print('Bootstrap: $bootstrapVersion'); // "4.2.1"
-  print('jQuery: $jQueryVersion'); // "3.3.9"
+  print('jQuery: $jQueryVersion'); // "3.3.1"
 }
 ```
 
