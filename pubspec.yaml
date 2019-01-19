@@ -2,6 +2,7 @@ name: bootstrap_bundle
 version: 1.0.0
 
 description: Bundle providing Bootstrap and jQuery in one package. A front-end framework for developing responsive, mobile first projects on the Web.
+documentation: https://dev.belin.io/bootstrap.dart/api
 homepage: https://dev.belin.io/bootstrap.dart
 issue_tracker: https://github.com/cedx/bootstrap.dart/issues
 repository: https://github.com/cedx/bootstrap.dart
@@ -9,6 +10,7 @@ repository: https://github.com/cedx/bootstrap.dart
 authors:
   - The Bootstrap Authors
   - Twitter, Inc.
+  - JS Foundation and other contributors
   - Cédric Belin <cedric@belin.io>
 
 environment:
@@ -16,5 +18,3 @@ environment:
 
 dev_dependencies:
   grinder: ^0.8.3
-  path: ^1.6.2
-  sass: ^1.16.1

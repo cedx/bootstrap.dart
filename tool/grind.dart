@@ -1,6 +1,4 @@
 import 'package:grinder/grinder.dart';
-import 'package:path/path.dart' as p;
-import 'package:sass/sass.dart' as sass;
 
 /// Starts the build system.
 Future<void> main(List<String> args) => grind(args);
