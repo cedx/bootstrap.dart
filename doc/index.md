@@ -1,5 +1,5 @@
 # Bootstrap Bundle <small>for Dart</small>
-Bundle providing [Bootstrap](https://getbootstrap.com) and [jQuery](https://jquery.com) in one package.
+Bundle providing [Bootstrap](https://getbootstrap.com) and [jQuery](https://jquery.com) in one [Dart](https://www.dartlang.org) package.
 
 A front-end framework for developing responsive, mobile first projects on the Web.
 
