@@ -31,7 +31,7 @@ This library provides the [Sass](https://sass-lang.com) files from [Bootstrap](h
     by using [`sass`](https://pub.dartlang.org/packages/sass)
     or [`sass_builder`](https://pub.dartlang.org/packages/sass_builder) package. 
 
-## Bootstrap
+## Bootstrap ![v4.2.1](https://img.shields.io/badge/version-4.2.1-blue.svg)
 This library provides the stylesheets and scripts from [Bootstrap](https://getbootstrap.com) redistributable:
 
 ```html
@@ -54,7 +54,7 @@ This library provides the stylesheets and scripts from [Bootstrap](https://getbo
 <script src="packages/bootstrap_bundle/js/bootstrap.bundle.min.js"></script>
 ```
 
-## jQuery
+## jQuery ![v3.3.1](https://img.shields.io/badge/version-3.3.1-blue.svg)
 This library provides the scripts from [jQuery](https://jquery.com) redistributable:
 
 ```html
