@@ -47,7 +47,7 @@ pub get
 Now in your [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) code, you can use:
 
 ```html
-<link rel="stylesheet" href="packages/bootstrap_bundle/css/bootstrap.min.css">
+<link href="packages/bootstrap_bundle/css/bootstrap.min.css" rel="stylesheet">
 <script src="packages/bootstrap_bundle/js/jquery.slim.min.js"></script>
 <script src="packages/bootstrap_bundle/js/bootstrap.bundle.min.js"></script>
 ```
