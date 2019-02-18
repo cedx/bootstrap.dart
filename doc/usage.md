@@ -8,7 +8,7 @@ import 'package:bootstrap_bundle/bootstrap_bundle.dart';
 
 /// Prints the version numbers of the available libraries.
 void main() {
-  print('Bootstrap: $bootstrapVersion'); // "4.3.0"
+  print('Bootstrap: $bootstrapVersion'); // "4.3.1"
   print('jQuery: $jQueryVersion'); // "3.3.1"
 }
 ```
@@ -31,7 +31,7 @@ This library provides the [Sass](https://sass-lang.com) files from [Bootstrap](h
     by using [`sass`](https://pub.dartlang.org/packages/sass)
     or [`sass_builder`](https://pub.dartlang.org/packages/sass_builder) package. 
 
-## Bootstrap ![v4.3.0](https://img.shields.io/badge/version-4.3.0-blue.svg)
+## Bootstrap ![v4.3.1](https://img.shields.io/badge/version-4.3.1-blue.svg)
 This library provides the stylesheets and scripts from [Bootstrap](https://getbootstrap.com) redistributable:
 
 ```html
