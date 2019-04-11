@@ -3,8 +3,8 @@ site_description: Bundle providing Bootstrap and jQuery in one package. A front-
 site_author: Cédric Belin - cedric@belin.io
 site_url: https://dev.belin.io/bootstrap.dart
 
-docs_dir: doc
-site_dir: web
+docs_dir: .
+site_dir: ../web
 
 repo_name: GitHub
 repo_url: https://github.com/cedx/bootstrap.dart
