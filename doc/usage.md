@@ -1,3 +1,6 @@
+path: tree/master
+source: lib/
+
 # Usage
 
 ## Dart
@@ -13,7 +16,7 @@ void main() {
 }
 ```
 
-## Sass
+## Sass ![v4.3.1](https://img.shields.io/badge/version-4.3.1-blue.svg)
 This library provides the [Sass](https://sass-lang.com) files from [Bootstrap](https://getbootstrap.com) redistributable:
 
 ```scss
@@ -24,6 +27,9 @@ This library provides the [Sass](https://sass-lang.com) files from [Bootstrap](h
 @import 'package:bootstrap_bundle/scss/functions';
 @import 'package:bootstrap_bundle/scss/variables';
 @import 'package:bootstrap_bundle/scss/mixins';
+
+// For the full list of supported features, see:
+// https://github.com/cedx/bootstrap.dart/tree/master/lib/scss
 ```
 
 !!! warning
