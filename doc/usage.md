@@ -9,7 +9,7 @@ import 'package:bootstrap_bundle/bootstrap_bundle.dart';
 /// Prints the version numbers of the available libraries.
 void main() {
   print('Bootstrap: $bootstrapVersion'); // "4.3.1"
-  print('jQuery: $jQueryVersion'); // "3.3.1"
+  print('jQuery: $jQueryVersion'); // "3.4.0"
 }
 ```
 
@@ -54,7 +54,7 @@ This library provides the stylesheets and scripts from [Bootstrap](https://getbo
 <script src="packages/bootstrap_bundle/js/bootstrap.bundle.min.js"></script>
 ```
 
-## jQuery ![v3.3.1](https://img.shields.io/badge/version-3.3.1-blue.svg)
+## jQuery ![v3.4.0](https://img.shields.io/badge/version-3.4.0-blue.svg)
 This library provides the scripts from [jQuery](https://jquery.com) redistributable:
 
 ```html
