@@ -3,7 +3,7 @@ publish_to: none
 version: 0.0.0
 
 environment:
-  sdk: '>=2.2.0 <3.0.0'
+  sdk: '>=2.3.0 <3.0.0'
 
 dependencies:
   bootstrap_bundle: *
