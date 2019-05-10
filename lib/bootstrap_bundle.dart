@@ -5,4 +5,4 @@ library bootstrap_bundle;
 const String bootstrapVersion = '4.3.1';
 
 /// The version number of the [jQuery](https://jquery.com) library.
-const String jQueryVersion = '3.4.0';
+const String jQueryVersion = '3.4.1';
