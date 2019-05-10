@@ -1,5 +1,8 @@
 # Changelog
 
+## Version [1.1.0](https://github.com/cedx/bootstrap.dart/compare/v1.0.0...v1.1.0)
+- Provides [jQuery](https://jquery.com) 3.4.1.
+
 ## Version [1.0.0](https://github.com/cedx/bootstrap.dart/compare/v0.2.1...v1.0.0)
 - First stable release.
 - Provides [jQuery](https://jquery.com) 3.4.0.

@@ -12,7 +12,7 @@ import 'package:bootstrap_bundle/bootstrap_bundle.dart';
 /// Prints the version numbers of the available libraries.
 void main() {
   print('Bootstrap: $bootstrapVersion'); // "4.3.1"
-  print('jQuery: $jQueryVersion'); // "3.4.0"
+  print('jQuery: $jQueryVersion'); // "3.4.1"
 }
 ```
 
@@ -34,8 +34,8 @@ This library provides the [Sass](https://sass-lang.com) files from [Bootstrap](h
 
 !!! warning
     You must use a dedicated build step to compile the Sass files
-    by using [`sass`](https://pub.dartlang.org/packages/sass)
-    or [`sass_builder`](https://pub.dartlang.org/packages/sass_builder) package. 
+    by using [`sass`](https://pub.dev/packages/sass)
+    or [`sass_builder`](https://pub.dev/packages/sass_builder) package. 
 
 ## Bootstrap ![v4.3.1](https://img.shields.io/badge/version-4.3.1-blue.svg)
 This library provides the stylesheets and scripts from [Bootstrap](https://getbootstrap.com) redistributable:
@@ -60,7 +60,7 @@ This library provides the stylesheets and scripts from [Bootstrap](https://getbo
 <script src="packages/bootstrap_bundle/js/bootstrap.bundle.min.js"></script>
 ```
 
-## jQuery ![v3.4.0](https://img.shields.io/badge/version-3.4.0-blue.svg)
+## jQuery ![v3.4.1](https://img.shields.io/badge/version-3.4.1-blue.svg)
 This library provides the scripts from [jQuery](https://jquery.com) redistributable:
 
 ```html

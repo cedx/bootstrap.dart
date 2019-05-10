@@ -1,20 +1,20 @@
 # Installation
 
 ## Requirements
-Before installing **Bootstrap Bundle for Dart**, you need to make sure you have the [Dart SDK](https://www.dartlang.org/tools/sdk)
-and [Pub](https://www.dartlang.org/tools/pub), the Dart package manager, up and running.
+Before installing **Bootstrap Bundle for Dart**, you need to make sure you have the [Dart SDK](https://dart.dev/tools/sdk)
+and [Pub](https://dart.dev/tools/pub/cmd), the Dart package manager, up and running.
 
 !!! warning
-    Bootstrap Bundle for Dart requires Dart >= **2.2.0**.
+    Bootstrap Bundle for Dart requires Dart >= **2.3.0**.
 
 You can verify if you're already good to go with the following commands:
 
 ```shell
 dart --version
-# Dart VM version: 2.2.0 (Unknown timestamp) on "linux_x64"
+# Dart VM version: 2.3.0 (Unknown timestamp) on "linux_x64"
 
 pub --version
-# Pub 2.2.0
+# Pub 2.3.0
 ```
 
 !!! info
