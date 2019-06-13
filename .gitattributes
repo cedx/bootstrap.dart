@@ -2,6 +2,7 @@
 
 .* text
 *.dart text
+*.http text
 *.md text
 *.txt text
 *.yaml text
@@ -9,4 +10,5 @@
 
 *.ico binary
 *.jpg binary
+*.pdf binary
 *.png binary
