@@ -5,16 +5,16 @@ Before installing **Bootstrap Bundle for Dart**, you need to make sure you have 
 and [Pub](https://dart.dev/tools/pub/cmd), the Dart package manager, up and running.
 
 !!! warning
-    Bootstrap Bundle for Dart requires Dart >= **2.4.0**.
+    Bootstrap Bundle for Dart requires Dart >= **2.5.0**.
 
 You can verify if you're already good to go with the following commands:
 
 ```shell
 dart --version
-# Dart VM version: 2.4.0 (Wed Jun 19 11:53:45 2019 +0200) on "windows_x64"
+# Dart VM version: 2.5.0 (Fri Sep 6 20:39:27 2019 +0200) on "windows_x64"
 
 pub --version
-# Pub 2.4.0
+# Pub 2.5.0
 ```
 
 !!! info
