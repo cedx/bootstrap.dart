@@ -1,3 +1,4 @@
+// ignore_for_file: avoid_print
 import 'package:bootstrap_bundle/bootstrap_bundle.dart';
 
 /// Prints the version numbers of the available libraries.
