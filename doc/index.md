@@ -1,5 +1,5 @@
 # Bootstrap Bundle <small>for Dart</small>
-![Dart](https://img.shields.io/badge/dart-%3E%3D2.4-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/bootstrap-4.3.1-yellow.svg) ![jQuery](https://img.shields.io/badge/jquery-3.4.1-yellow.svg) ![Release](https://img.shields.io/pub/v/bootstrap_bundle.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Dart](https://img.shields.io/badge/dart-%3E%3D2.5-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/bootstrap-4.3.1-yellow.svg) ![jQuery](https://img.shields.io/badge/jquery-3.4.1-yellow.svg) ![Release](https://img.shields.io/pub/v/bootstrap_bundle.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Bundle providing [Bootstrap](https://getbootstrap.com) and [jQuery](https://jquery.com) in one [Dart](https://dart.dev) package.
 
