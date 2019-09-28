@@ -33,6 +33,12 @@
       "type": "shell"
     },
     {
+      "command": "grind publish",
+      "label": "grinder: publish",
+      "problemMatcher": [],
+      "type": "shell"
+    },
+    {
       "command": "grind upgrade",
       "label": "grinder: upgrade",
       "problemMatcher": [],
