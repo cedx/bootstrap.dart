@@ -1,6 +1,7 @@
 # Changelog
 
 ## Version [1.2.0](https://github.com/cedx/bootstrap.dart/compare/v1.1.0...v1.2.0)
+- Provides [Bootstrap](https://getbootstrap.com) 4.4.0.
 - Raised the [Dart SDK](https://dart.dev/tools/sdk) constraint.
 
 ## Version [1.1.0](https://github.com/cedx/bootstrap.dart/compare/v1.0.0...v1.1.0)
