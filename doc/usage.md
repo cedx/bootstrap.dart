@@ -11,12 +11,12 @@ import 'package:bootstrap_bundle/bootstrap_bundle.dart';
 
 /// Prints the version numbers of the available libraries.
 void main() {
-  print('Bootstrap: $bootstrapVersion'); // "4.4.0"
+  print('Bootstrap: $bootstrapVersion'); // "4.4.1"
   print('jQuery: $jQueryVersion'); // "3.4.1"
 }
 ```
 
-## Sass ![v4.4.0](https://img.shields.io/badge/version-4.4.0-blue.svg)
+## Sass ![v4.4.1](https://img.shields.io/badge/version-4.4.1-blue.svg)
 This library provides the [Sass](https://sass-lang.com) files from [Bootstrap](https://getbootstrap.com) redistributable:
 
 ```scss
@@ -37,7 +37,7 @@ This library provides the [Sass](https://sass-lang.com) files from [Bootstrap](h
     by using [`sass`](https://pub.dev/packages/sass)
     or [`sass_builder`](https://pub.dev/packages/sass_builder) package. 
 
-## Bootstrap ![v4.4.0](https://img.shields.io/badge/version-4.4.0-blue.svg)
+## Bootstrap ![v4.4.1](https://img.shields.io/badge/version-4.4.1-blue.svg)
 This library provides the stylesheets and scripts from [Bootstrap](https://getbootstrap.com) redistributable:
 
 ```html
