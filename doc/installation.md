@@ -47,9 +47,14 @@ pub get
 Now in your [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) code, you can use:
 
 ```html
+<!-- Bootstrap -->
 <link href="packages/bootstrap_bundle/css/bootstrap.min.css" rel="stylesheet">
 <script src="packages/bootstrap_bundle/js/jquery.slim.min.js"></script>
 <script src="packages/bootstrap_bundle/js/bootstrap.bundle.min.js"></script>
+
+<!-- Bootstrap Icons -->
+<img alt="" src="packages/bootstrap_bundle/icons/bootstrap.svg">
+<img alt="" src="packages/bootstrap_bundle/icons/bootstrap-fill.svg">
 ```
 
 Or in your [Sass](https://sass-lang.com) code, you can use:
