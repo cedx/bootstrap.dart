@@ -10,6 +10,7 @@ Future<void> build() => joinFile(libDir, ['scss', 'bootstrap.scss']).copy(joinFi
 void clean() {
   defaultClean();
   ['.dart_tool', 'doc/api', webDir.path].map(getDir).forEach(delete);
+  FileSet.fromDir(getDir('var'), pattern: '!.*', recurse: true).files.forEach(delete);
 }
 
 @Task('Builds the documentation')
