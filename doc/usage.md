@@ -60,7 +60,7 @@ It also provides the [Sass](https://sass-lang.com) files:
     by using [`sass`](https://pub.dev/packages/sass)
     or [`sass_builder`](https://pub.dev/packages/sass_builder) package. 
 
-## Bootstrap Icons ![v1.0.0-alpha2](https://img.shields.io/badge/version-1.0.0--alpha-blue.svg)
+## Bootstrap Icons ![v1.0.0-alpha2](https://img.shields.io/badge/version-1.0.0--alpha2-blue.svg)
 This library provides the SVG images from [Bootstrap Icons](https://icons.getbootstrap.com) redistributable:
 
 ```html
