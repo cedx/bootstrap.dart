@@ -7,7 +7,7 @@ A front-end framework for developing responsive, mobile first projects on the We
 
 ## Documentation
 - [User guide](https://dev.belin.io/bootstrap.dart)
-- [API reference](https://dev.belin.io/bootstrap.dart/api)
+- [API reference](https://pub.dev/documentation/bootstrap_bundle)
 
 ## Development
 - [Git repository](https://github.com/cedx/bootstrap.dart)
