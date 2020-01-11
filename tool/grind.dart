@@ -16,7 +16,6 @@ void clean() {
 @Task('Builds the documentation')
 Future<void> doc() async {
   for (final path in ['CHANGELOG.md', 'LICENSE.md']) await getFile(path).copy('doc/about/${path.toLowerCase()}');
-  DartDoc.doc();
   run('mkdocs', arguments: ['build', '--config-file=doc/mkdocs.yaml']);
   ['doc/about/changelog.md', 'doc/about/license.md', '${webDir.path}/mkdocs.yaml'].map(getFile).forEach(delete);
 }
