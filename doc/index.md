@@ -13,7 +13,7 @@ dependencies:
   bootstrap_bundle: *
 ```
 
-Install the latest version of **Bootstrap Bundle for Dart** with [Pub](https://dart.dev/tools/pub/cmd):
+Install the latest version of **Bootstrap Bundle for Dart** with [Pub](https://dart.dev/tools/pub):
 
 ```shell
 pub get
