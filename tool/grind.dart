@@ -9,8 +9,8 @@ Future<void> build() => joinFile(libDir, ['scss', 'bootstrap.scss']).copy(joinFi
 @Task('Deletes all generated files and reset any saved state')
 void clean() {
   defaultClean();
-  ['.dart_tool/build', 'doc/api', webDir.path].map(getDir).forEach(delete);
-  FileSet.fromDir(getDir('var'), pattern: '!.*', recurse: true).files.forEach(delete);
+  delete(getFile('var/lcov.info'));
+  ['.dart_tool/build', 'var/test', webDir.path].map(getDir).forEach(delete);
 }
 
 @Task('Builds the documentation')
