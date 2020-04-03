@@ -3,7 +3,7 @@
 
 Bundle providing [Bootstrap](https://getbootstrap.com), [Bootstrap Icons](https://icons.getbootstrap.com) and [jQuery](https://jquery.com) in one [Dart](https://dart.dev) package.
 
-A front-end framework for developing responsive, mobile first projects on the Web.
+A front-end component library for developing responsive, mobile first projects on the Web.
 
 ## Documentation
 - [User guide](https://dev.belin.io/bootstrap.dart)

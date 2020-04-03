@@ -1,7 +1,7 @@
 site_name: Bootstrap Bundle for Dart
 site_description: >
   Bundle providing Bootstrap, Bootstrap Icons and jQuery in one package.
-  A front-end framework for developing responsive, mobile first projects on the Web.
+  A front-end component library for developing responsive, mobile first projects on the Web.
 site_author: Cédric Belin - cedric@belin.io
 site_url: https://dev.belin.io/bootstrap.dart
 
