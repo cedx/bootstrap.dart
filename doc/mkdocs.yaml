@@ -6,7 +6,7 @@ site_author: Cédric Belin - cedric@belin.io
 site_url: https://dev.belin.io/bootstrap.dart
 
 docs_dir: .
-site_dir: ../web
+site_dir: ../www
 
 repo_name: GitHub
 repo_url: https://github.com/cedx/bootstrap.dart
