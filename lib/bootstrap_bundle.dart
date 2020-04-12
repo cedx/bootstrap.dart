@@ -8,4 +8,4 @@ const String bootstrapVersion = '4.4.1';
 const String bootstrapIconsVersion = '1.0.0-alpha3';
 
 /// The version number of the [jQuery](https://jquery.com) library.
-const String jQueryVersion = '3.4.1';
+const String jQueryVersion = '3.5.0';
