@@ -1,4 +1,4 @@
-path: tree/master
+path: src/branch/master
 source: lib/
 
 # Usage
@@ -52,7 +52,7 @@ It also provides the [Sass](https://sass-lang.com) files:
 @import 'package:bootstrap_bundle/scss/mixins';
 
 // For the full list of supported features, see:
-// https://github.com/cedx/bootstrap.dart/tree/master/lib/scss
+// https://git.belin.io/cedx/bootstrap.dart/src/branch/master/lib/scss
 ```
 
 !!! warning

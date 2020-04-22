@@ -6,13 +6,13 @@ Bundle providing [Bootstrap](https://getbootstrap.com), [Bootstrap Icons](https:
 A front-end component library for developing responsive, mobile first projects on the Web.
 
 ## Documentation
-- [User guide](https://dev.belin.io/bootstrap.dart)
+- [User guide](https://docs.belin.io/bootstrap.dart)
 - [API reference](https://pub.dev/documentation/bootstrap_bundle)
 
 ## Development
-- [Git repository](https://github.com/cedx/bootstrap.dart)
+- [Git repository](https://git.belin.io/cedx/bootstrap.dart)
 - [Pub package](https://pub.dev/packages/bootstrap_bundle)
-- [Submit an issue](https://github.com/cedx/bootstrap.dart/issues)
+- [Submit an issue](https://git.belin.io/cedx/bootstrap.dart/issues)
 
 ## License
-[Bootstrap Bundle for Dart](https://dev.belin.io/bootstrap.dart) is distributed under the MIT License.
+[Bootstrap Bundle for Dart](https://docs.belin.io/bootstrap.dart) is distributed under the MIT License.
