@@ -1,5 +1,5 @@
 name: bootstrap_bundle
-version: 1.6.0
+version: 1.6.1
 
 description: >
   Bundle providing Bootstrap, Bootstrap Icons and jQuery in one package.
