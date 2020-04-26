@@ -43,22 +43,21 @@ This library provides the stylesheets and scripts from [Bootstrap](https://getbo
 It also provides the [Sass](https://sass-lang.com) files:
 
 ```scss
-// All features.
+// All Bootstrap features.
 @import 'package:bootstrap_bundle/scss';
 
 // Specific features.
 @import 'package:bootstrap_bundle/scss/functions';
 @import 'package:bootstrap_bundle/scss/variables';
 @import 'package:bootstrap_bundle/scss/mixins';
-
-// For the full list of supported features, see:
-// https://git.belin.io/cedx/bootstrap.dart/src/branch/master/lib/scss
+@import 'package:bootstrap_bundle/scss/reboot';
 ```
 
+!!! tip
+    For the full list of supported features, see the [content of the `lib/scss` folder](https://git.belin.io/cedx/bootstrap.dart/src/branch/master/lib/scss).
+
 !!! warning
-    You must use a dedicated build step to compile the Sass files
-    by using [`sass`](https://pub.dev/packages/sass)
-    or [`sass_builder`](https://pub.dev/packages/sass_builder) package. 
+    When consuming the [Sass](https://sass-lang.com) files, you must use a dedicated build step to compile these files to [CSS](https://www.w3.org/Style/CSS) by using the [`sass`](https://pub.dev/packages/sass) or [`sass_builder`](https://pub.dev/packages/sass_builder) package.
 
 ## Bootstrap Icons ![v1.0.0-alpha3](https://img.shields.io/badge/version-1.0.0--alpha3-blue.svg)
 This library provides the SVG images from [Bootstrap Icons](https://icons.getbootstrap.com) redistributable:
