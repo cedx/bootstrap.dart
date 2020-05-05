@@ -13,7 +13,7 @@ import 'package:bootstrap_bundle/bootstrap_bundle.dart';
 void main() {
   print('Bootstrap: $bootstrapVersion'); // "4.4.1"
   print('Bootstrap Icons: $bootstrapIconsVersion'); // "1.0.0-alpha3"
-  print('jQuery: $jQueryVersion'); // "3.5.0"
+  print('jQuery: $jQueryVersion'); // "3.5.1"
 }
 ```
 
@@ -67,7 +67,7 @@ This library provides the SVG images from [Bootstrap Icons](https://icons.getboo
 <img alt="" src="packages/bootstrap_bundle/icons/bootstrap-fill.svg">
 ```
 
-## jQuery ![v3.5.0](https://img.shields.io/badge/version-3.5.0-blue.svg)
+## jQuery ![v3.5.1](https://img.shields.io/badge/version-3.5.1-blue.svg)
 This library provides the scripts from [jQuery](https://jquery.com) redistributable:
 
 ```html
