@@ -9,7 +9,7 @@ issue_tracker: https://git.belin.io/cedx/bootstrap.dart/issues
 repository: https://git.belin.io/cedx/bootstrap.dart
 
 environment:
-  sdk: '>=2.7.0 <3.0.0'
+  sdk: '>=2.8.0 <3.0.0'
 
 dev_dependencies:
   grinder: ^0.8.4
