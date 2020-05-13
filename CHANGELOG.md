@@ -1,5 +1,8 @@
 # Changelog
 
+## Version [1.8.0](https://git.belin.io/cedx/bootstrap.dart/compare/v1.7.0...v1.8.0)
+- Provides [Bootstrap](https://getbootstrap.com) 4.5.0.
+
 ## Version [1.7.0](https://git.belin.io/cedx/bootstrap.dart/compare/v1.6.1...v1.7.0)
 - Provides [jQuery](https://jquery.com) 3.5.1.
 
