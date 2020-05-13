@@ -7,7 +7,7 @@ A front-end component library for developing responsive, mobile first projects o
 
 ## Documentation
 - [User guide](https://docs.belin.io/bootstrap.dart)
-- [API reference](https://pub.dev/documentation/bootstrap_bundle)
+- [API reference](https://api.belin.io/bootstrap.dart)
 
 ## Development
 - [Git repository](https://git.belin.io/cedx/bootstrap.dart)
