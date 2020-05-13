@@ -17,7 +17,7 @@ void main() {
 }
 ```
 
-## Bootstrap ![v4.5.0](https://img.shields.io/badge/version-4.5.0-blue.svg)
+## Bootstrap ![v4.5.0](https://badgen.net/badge/version/4.5.0/blue)
 This library provides the stylesheets and scripts from [Bootstrap](https://getbootstrap.com) redistributable:
 
 ```html
@@ -59,7 +59,7 @@ It also provides the [Sass](https://sass-lang.com) files:
 !!! warning
     When consuming the [Sass](https://sass-lang.com) files, you must use a dedicated build step to compile these files to [CSS](https://www.w3.org/Style/CSS) by using the [`sass`](https://pub.dev/packages/sass) or [`sass_builder`](https://pub.dev/packages/sass_builder) package.
 
-## Bootstrap Icons ![v1.0.0-alpha3](https://img.shields.io/badge/version-1.0.0--alpha3-blue.svg)
+## Bootstrap Icons ![v1.0.0-alpha3](https://badgen.net/badge/version/1.0.0-alpha3/blue)
 This library provides the SVG images from [Bootstrap Icons](https://icons.getbootstrap.com) redistributable:
 
 ```html
@@ -67,7 +67,7 @@ This library provides the SVG images from [Bootstrap Icons](https://icons.getboo
 <img alt="" src="packages/bootstrap_bundle/icons/bootstrap-fill.svg">
 ```
 
-## jQuery ![v3.5.1](https://img.shields.io/badge/version-3.5.1-blue.svg)
+## jQuery ![v3.5.1](https://badgen.net/badge/version/3.5.1/blue)
 This library provides the scripts from [jQuery](https://jquery.com) redistributable:
 
 ```html
