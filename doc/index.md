@@ -8,14 +8,14 @@ A front-end component library for developing responsive, mobile first projects o
 ## Quick start
 Append the following line to your project's `pubspec.yaml` file:
 
-```yaml
+``` yaml
 dependencies:
-  bootstrap_bundle: *
+	bootstrap_bundle: *
 ```
 
 Install the latest version of **Bootstrap Bundle for Dart** with [Pub](https://dart.dev/tools/pub):
 
-```shell
+``` shell
 pub get
 ```
 
