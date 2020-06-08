@@ -1,4 +1,4 @@
-path: src/branch/master
+path: src/branch/main
 source: lib/
 
 # Usage
@@ -54,7 +54,7 @@ It also provides the [Sass](https://sass-lang.com) files:
 ```
 
 !!! tip
-	For the full list of supported features, see the [content of the `lib/scss` folder](https://git.belin.io/cedx/bootstrap.dart/src/branch/master/lib/scss).
+	For the full list of supported features, see the [content of the `lib/scss` folder](https://git.belin.io/cedx/bootstrap.dart/src/branch/main/lib/scss).
 
 !!! warning
 	When consuming the [Sass](https://sass-lang.com) files, you must use a dedicated build step to compile these files to [CSS](https://www.w3.org/Style/CSS) by using the [`sass`](https://pub.dev/packages/sass) or [`sass_builder`](https://pub.dev/packages/sass_builder) package.
