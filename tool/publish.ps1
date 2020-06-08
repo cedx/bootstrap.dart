@@ -3,5 +3,6 @@ Set-StrictMode -Version Latest
 Set-Location (Split-Path $PSScriptRoot)
 
 tool/clean.ps1
-dartfmt --fix --overwrite lib test
+tool/build.ps1
+dartfmt --fix --overwrite lib
 pub publish --force
