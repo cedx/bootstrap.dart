@@ -12,7 +12,7 @@ import "package:bootstrap_bundle/bootstrap_bundle.dart";
 /// Prints the version numbers of the available libraries.
 void main() {
 	print("Bootstrap: $bootstrapVersion"); // "4.5.0"
-	print("Bootstrap Icons: $bootstrapIconsVersion"); // "1.0.0-alpha4"
+	print("Bootstrap Icons: $bootstrapIconsVersion"); // "1.0.0-alpha5"
 	print("jQuery: $jQueryVersion"); // "3.5.1"
 }
 ```
@@ -59,7 +59,7 @@ It also provides the [Sass](https://sass-lang.com) files:
 !!! warning
 	When consuming the [Sass](https://sass-lang.com) files, you must use a dedicated build step to compile these files to [CSS](https://www.w3.org/Style/CSS) by using the [`sass`](https://pub.dev/packages/sass) or [`sass_builder`](https://pub.dev/packages/sass_builder) package.
 
-## Bootstrap Icons ![Version](https://badgen.net/badge/version/v1.0.0-alpha4/blue)
+## Bootstrap Icons ![Version](https://badgen.net/badge/version/v1.0.0-alpha5/blue)
 This library provides the SVG images from [Bootstrap Icons](https://icons.getbootstrap.com) redistributable:
 
 ``` html
