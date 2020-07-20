@@ -1,5 +1,8 @@
 # Changelog
 
+## Version [1.10.0](https://git.belin.io/cedx/bootstrap.dart/compare/v1.9.0...v1.10.0)
+- Provides [Bootstrap Icons](https://icons.getbootstrap.com) 1.0.0-alpha5.
+
 ## Version [1.9.0](https://git.belin.io/cedx/bootstrap.dart/compare/v1.8.0...v1.9.0)
 - Provides [Bootstrap Icons](https://icons.getbootstrap.com) 1.0.0-alpha4.
 
