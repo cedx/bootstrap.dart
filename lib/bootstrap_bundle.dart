@@ -2,10 +2,10 @@
 library bootstrap_bundle;
 
 /// The version number of the [Bootstrap](https://getbootstrap.com) library.
-const String bootstrapVersion = "4.5.0";
+const bootstrapVersion = "4.5.2";
 
 /// The version number of the [Bootstrap Icons](https://icons.getbootstrap.com) library.
-const String bootstrapIconsVersion = "1.0.0-alpha5";
+const bootstrapIconsVersion = "1.0.0-alpha5";
 
 /// The version number of the [jQuery](https://jquery.com) library.
-const String jQueryVersion = "3.5.1";
+const jQueryVersion = "3.5.1";
