@@ -1,5 +1,5 @@
 # Bootstrap Bundle <small>for Dart</small>
-![Bootstrap](https://badgen.net/badge/bootstrap/v4.5.2/yellow) ![Bootstrap Icons](https://badgen.net/badge/bs-icons/v1.0.0-alpha5/yellow) ![jQuery](https://badgen.net/badge/jquery/v3.5.1/yellow)  
+![Bootstrap](https://badgen.net/badge/bootstrap/v4.5.2/yellow) ![Bootstrap Icons](https://badgen.net/badge/bs-icons/v1.0.0/yellow) ![jQuery](https://badgen.net/badge/jquery/v3.5.1/yellow)  
 ![Runtime](https://badgen.net/pub/sdk-version/bootstrap_bundle) ![Release](https://badgen.net/pub/v/bootstrap_bundle) ![License](https://badgen.net/pub/license/bootstrap_bundle) ![Likes](https://badgen.net/pub/likes/bootstrap_bundle)
 
 Bundle providing [Bootstrap](https://getbootstrap.com), [Bootstrap Icons](https://icons.getbootstrap.com) and [jQuery](https://jquery.com) in one [Dart](https://dart.dev) package.
