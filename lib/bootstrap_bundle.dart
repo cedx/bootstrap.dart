@@ -5,7 +5,7 @@ library bootstrap_bundle;
 const bootstrapVersion = "4.5.2";
 
 /// The version number of the [Bootstrap Icons](https://icons.getbootstrap.com) library.
-const bootstrapIconsVersion = "1.0.0-alpha5";
+const bootstrapIconsVersion = "1.0.0";
 
 /// The version number of the [jQuery](https://jquery.com) library.
 const jQueryVersion = "3.5.1";
