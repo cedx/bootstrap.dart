@@ -2,7 +2,7 @@
 library bootstrap_bundle;
 
 /// The version number of the [Bootstrap](https://getbootstrap.com) library.
-const bootstrapVersion = "4.5.2";
+const bootstrapVersion = "4.5.3";
 
 /// The version number of the [Bootstrap Icons](https://icons.getbootstrap.com) library.
 const bootstrapIconsVersion = "1.0.0";

@@ -11,13 +11,13 @@ import "package:bootstrap_bundle/bootstrap_bundle.dart";
 
 /// Prints the version numbers of the available libraries.
 void main() {
-	print("Bootstrap: $bootstrapVersion"); // "4.5.2"
+	print("Bootstrap: $bootstrapVersion"); // "4.5.3"
 	print("Bootstrap Icons: $bootstrapIconsVersion"); // "1.0.0"
 	print("jQuery: $jQueryVersion"); // "3.5.1"
 }
 ```
 
-## Bootstrap ![Version](https://badgen.net/badge/version/v4.5.2/blue)
+## Bootstrap ![Version](https://badgen.net/badge/version/v4.5.3/blue)
 This library provides the stylesheets and scripts from [Bootstrap](https://getbootstrap.com) redistributable:
 
 ``` html
