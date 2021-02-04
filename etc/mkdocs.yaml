@@ -3,13 +3,13 @@ site_description: >
   Bundle providing Bootstrap, Bootstrap Icons and jQuery in one Dart package.
   A front-end component library for developing responsive, mobile first projects on the Web.
 site_author: Cédric Belin - cedric@belin.io
-site_url: https://docs.belin.io/bootstrap.dart
+site_url: https://cedx.github.io/bootstrap.dart
 
 docs_dir: ../doc
 site_dir: ../www
 
-repo_name: git.belin.io
-repo_url: https://git.belin.io/cedx/bootstrap.dart
+repo_name: github.com
+repo_url: https://github.com/cedx/bootstrap.dart
 edit_uri: ""
 
 copyright: Copyright &copy; 2019 - 2020 Cédric Belin

@@ -4,9 +4,9 @@ version: 1.13.0
 description: >
   Bundle providing Bootstrap, Bootstrap Icons and jQuery in one package.
   A front-end component library for developing responsive, mobile first projects on the Web.
-homepage: https://docs.belin.io/bootstrap.dart
-issue_tracker: https://git.belin.io/cedx/bootstrap.dart/issues
-repository: https://git.belin.io/cedx/bootstrap.dart
+homepage: https://cedx.github.io/bootstrap.dart
+issue_tracker: https://github.com/cedx/bootstrap.dart/issues
+repository: https://github.com/cedx/bootstrap.dart
 
 environment:
   sdk: ">=2.10.0 <3.0.0"
