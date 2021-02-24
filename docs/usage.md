@@ -1,12 +1,9 @@
-path: blob/main
-source: lib/
-
 # Usage
 
 ## Dart
 This library provides constants for the version numbers of the available [Bootstrap](https://getbootstrap.com) and [jQuery](https://jquery.com) libraries:
 
-``` dart
+```dart
 import "package:bootstrap_bundle/bootstrap_bundle.dart";
 
 /// Prints the version numbers of the available libraries.
@@ -20,7 +17,7 @@ void main() {
 ## Bootstrap ![Version](https://badgen.net/badge/version/v4.5.3/blue)
 This library provides the stylesheets and scripts from [Bootstrap](https://getbootstrap.com) redistributable:
 
-``` html
+```html
 <!-- Plain stylesheets -->
 <link rel="stylesheet" href="packages/bootstrap_bundle/css/bootstrap.css">
 <link rel="stylesheet" href="packages/bootstrap_bundle/css/bootstrap-grid.css">
@@ -42,7 +39,7 @@ This library provides the stylesheets and scripts from [Bootstrap](https://getbo
 
 It also provides the [Sass](https://sass-lang.com) files:
 
-``` scss
+```scss
 // All Bootstrap features.
 @import "package:bootstrap_bundle/scss";
 
@@ -53,16 +50,15 @@ It also provides the [Sass](https://sass-lang.com) files:
 @import "package:bootstrap_bundle/scss/reboot";
 ```
 
-!!! tip
-	For the full list of supported features, see the [content of the `lib/scss` folder](https://github.com/cedx/bootstrap.dart/blob/main/lib/scss).
+?> For the full list of supported features, see the [content of the "lib/scss" folder](https://github.com/cedx/bootstrap.dart/tree/main/lib/scss).
 
-!!! warning
-	When consuming the [Sass](https://sass-lang.com) files, you must use a dedicated build step to compile these files to [CSS](https://www.w3.org/Style/CSS) by using the [`sass`](https://pub.dev/packages/sass) or [`sass_builder`](https://pub.dev/packages/sass_builder) package.
+!> When consuming the [Sass](https://sass-lang.com) files, you must use a dedicated build step to compile these files
+to [CSS](https://www.w3.org/Style/CSS) by using the [sass](https://pub.dev/packages/sass) or [sass_builder](https://pub.dev/packages/sass_builder) package.
 
 ## Bootstrap Icons ![Version](https://badgen.net/badge/version/v1.0.0/blue)
 This library provides the SVG images from [Bootstrap Icons](https://icons.getbootstrap.com) redistributable:
 
-``` html
+```html
 <img alt="" src="packages/bootstrap_bundle/icons/bootstrap.svg">
 <img alt="" src="packages/bootstrap_bundle/icons/bootstrap-fill.svg">
 ```
@@ -70,7 +66,7 @@ This library provides the SVG images from [Bootstrap Icons](https://icons.getboo
 ## jQuery ![Version](https://badgen.net/badge/version/v3.5.1/blue)
 This library provides the scripts from [jQuery](https://jquery.com) redistributable:
 
-``` html
+```html
 <!-- Plain scripts -->
 <script src="packages/bootstrap_bundle/js/jquery.js"></script>
 <script src="packages/bootstrap_bundle/js/jquery.slim.js"></script>
